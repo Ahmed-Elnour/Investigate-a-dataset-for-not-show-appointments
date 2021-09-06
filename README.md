@@ -1,0 +1,2 @@
+# Investigate-a-dataset-for-not-show-appointments
+This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. we have number of characteristics (Gender, ScheduledDay, AppointmentDay, Age, Neighbourhood, Scholarship, Hipertension, Diabetes, Alcoholism, Handcap, SMS_received) which will help us to identify why patients could not show up for their appointment.
